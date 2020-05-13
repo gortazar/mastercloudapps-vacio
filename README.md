@@ -6,7 +6,7 @@ blblabla
 
 blablabla mas rollo
 
-Una doc mas extensa se encuentra en https://blablabla/index.html
+Una doc mas extensa se encuentra en https://midominio.com/index.html
 
 ## Otra sección
 
