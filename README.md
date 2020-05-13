@@ -10,7 +10,7 @@ Una doc mas extensa se encuentra en http://blablabla/index.html
 
 ## Otra sección
 
-blabla
+Un poco de contexto. blabla
 
 ## Otra más
 
