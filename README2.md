@@ -1,1 +1,4 @@
-Doc para developers
+# Doc para developers
+
+## Code of conduct
+
